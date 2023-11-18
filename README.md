@@ -7,7 +7,7 @@ This repository contains Python scripts for scraping product information from ht
 1. Clone the repository:
 
    ```bash
-   https://github.com/hooshmang/divar-scraper.git
+   git clone https://github.com/hooshmang/divar-scraper.git
    ```
 
 2. Install the required packages:
